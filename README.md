@@ -78,7 +78,7 @@ Dataset Paper:
 https://www.kaggle.com/datasets/dartweichen/crosscheck
 
 Dataset Paper:
-chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://pac.cs.cornell.edu/pubs/Ubicomp2016_Crosscheck.pdf
+https://pac.cs.cornell.edu/pubs/Ubicomp2016_Crosscheck.pdf
 
 ---
 
