@@ -75,7 +75,10 @@ Behavioral features include:
 - Sleep behavior
 
 Dataset Paper:  
-https://dl.acm.org/doi/10.1145/3191775
+https://www.kaggle.com/datasets/dartweichen/crosscheck
+
+Dataset Paper:
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://pac.cs.cornell.edu/pubs/Ubicomp2016_Crosscheck.pdf
 
 ---
 
@@ -170,55 +173,6 @@ Key findings include:
 
 ---
 
-# 📦 Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/schizophrenia-relapse-prediction.git
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-# ▶ Running the Project
-
-Launch Jupyter Notebook:
-
-```bash
-jupyter notebook
-```
-
-Open:
-
-```text
-notebooks/main_project.ipynb
-```
-
----
-
-# 📁 Project Structure
-
-```text
-Schizophrenia-Relapse-Prediction/
-│
-├── data/
-├── notebooks/
-├── models/
-├── results/
-├── paper/
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
-
----
-
 # 🔬 Research Contribution
 
 This work proposes a personalized multimodal framework integrating:
@@ -229,18 +183,6 @@ This work proposes a personalized multimodal framework integrating:
 - and NLP-based mental health analysis
 
 for schizophrenia relapse prediction in real-world settings.
-
----
-
-# 📄 Research Paper
-
-This project is being developed as an IEEE-style research work focusing on multimodal AI for mental healthcare applications.
-
----
-
-# 👨‍💻 Author
-
-Shitish Dutta
 
 ---
 
